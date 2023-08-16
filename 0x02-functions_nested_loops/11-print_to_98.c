@@ -5,7 +5,6 @@
  * print_to_98 - prints the results
  * @n: the parameter checked
  */
-
 void print_to_98(int n)
 {
 	int i;
