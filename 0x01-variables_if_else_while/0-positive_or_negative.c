@@ -4,6 +4,7 @@
 
 /**
  * main - the code to print positive or negative numbers
+ * Return: 0 on successful
  */
 int main(void)
 {
