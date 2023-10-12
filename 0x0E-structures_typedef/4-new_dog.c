@@ -1,5 +1,12 @@
 #include "dog.h"
 
+/**
+ * new_dog - function that creates a new dog
+ * @name: the name
+ * @age: the age
+ * @owner: the owner
+ * Return: the new dog on success
+ */
 dog_t *new_dog(char *name, float age, char *owner)
 {
 	dog_t *doggy;
